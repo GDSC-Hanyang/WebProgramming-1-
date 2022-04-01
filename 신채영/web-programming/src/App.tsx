@@ -1,11 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
-    <div className="신채영">
-      <div className = 'title'> 신채영입니당ㅎㅎ </div>
+    <div className="App">
+      <h1
+        style={{
+          color: "#87CEFA",
+        }}
+      >
+        안녕하세용ㅎㅎ
+      </h1>
     </div>
   );
 }
