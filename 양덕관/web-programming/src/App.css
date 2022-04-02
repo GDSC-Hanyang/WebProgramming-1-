@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.hi{
+  font-size: 40px;
+  font-weight: bolder;
+  color: blue;
+}
+
+.hi2{
+  font-size: 20px;
+  color: lightblue;
+}
